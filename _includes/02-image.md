@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Chicago skyline](https://cdn.pixabay.com/photo/2016/11/29/11/33/architecture-1869211_960_720.jpg)
