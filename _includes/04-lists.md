@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+1. Sleeping
+2. Peace
+3. Oxygen
+  
+
